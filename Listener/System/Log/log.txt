@@ -1,0 +1,115 @@
+Time:    2014/5/21 13:29:46
+Message: ====================Process Start =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:29:46
+Message: transaction_subject=Snoopy5&payment_date=2014%e5%b9%b45%e6%9c%8821%e6%97%a5&txn_type=subscr_payment&subscr_id=I-M9UNWFABSCU0&last_name=buyer&residence_country=US&item_name=Snoopy5&payment_gross=0.99&mc_currency=USD&business=william_seller%40autodesk.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=Aw8jOlh0qjVJwUBom8vHwXnBIMQFAObdPVGABZ.j868wSztphYAUX1nX&payer_status=verified&test_ipn=1&payer_email=william_buyer%40autodesk.com&txn_id=2KP144572R9206453&receiver_email=william_seller%40autodesk.com&first_name=williambuyer&payer_id=PYAX39C7LTU3E&receiver_id=X7QMNEWVLHP4S&item_number=appstore.exchange.autodesk.com%3adanielrendering%3aen&payment_status=Completed&payment_fee=0.33&mc_fee=0.33&mc_gross=0.99&custom=ZCGCKKGHNFN4&charset=windows-1252&notify_version=3.8&ipn_track_id=651f78bba90fc&buyer_adsk_account=changyudu%40163.com
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:29:50
+Message: HomeController[HandleIPNNotification - appstore.exchange.autodesk.com:danielrendering:en]: posting to Autodesk Exchange: http://localhost:36911/ValidateIPN.aspx
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:30:54
+Message: Unknown
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:30:54
+Message: ====================Process End =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:30:54
+Message: ====================Process Start =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:30:54
+Message: txn_type=subscr_signup&subscr_id=I-M9UNWFABSCU0&last_name=buyer&residence_country=US&mc_currency=USD&item_name=Snoopy5&business=william_seller%40autodesk.com&amount3=0.99&recurring=1&verify_sign=As735jYkp7XIRB6.aiLUw3pQjX1zA8Hc.eUiJrGiQ-ix1S92lvtPhEw5&payer_status=verified&test_ipn=1&payer_email=william_buyer%40autodesk.com&first_name=williambuyer&receiver_email=william_seller%40autodesk.com&payer_id=PYAX39C7LTU3E&reattempt=1&item_number=appstore.exchange.autodesk.com%3adanielrendering%3aen&subscr_date=2014%e5%b9%b45%e6%9c%8821%e6%97%a5&custom=ZCGCKKGHNFN4&charset=windows-1252&notify_version=3.8&period3=1+D&mc_amount3=0.99&ipn_track_id=651f78bba90fc&buyer_adsk_account=changyudu%40163.com
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:30:58
+Message: HomeController[HandleIPNNotification - appstore.exchange.autodesk.com:danielrendering:en]: posting to Autodesk Exchange: http://localhost:36911/ValidateIPN.aspx
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:32:44
+Message: PaymentProvider[HandleIPNNotification]: Error to get IPN validation info from Autodesk. strResponse is: Unknown
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:34:51
+Message: ====================Process Start =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:34:51
+Message: transaction_subject=Snoopy5&payment_date=2014%e5%b9%b45%e6%9c%8821%e6%97%a5&txn_type=subscr_payment&subscr_id=I-M9UNWFABSCU0&last_name=buyer&residence_country=US&item_name=Snoopy5&payment_gross=0.99&mc_currency=USD&business=william_seller%40autodesk.com&payment_type=instant&protection_eligibility=Ineligible&verify_sign=Aw8jOlh0qjVJwUBom8vHwXnBIMQFAObdPVGABZ.j868wSztphYAUX1nX&payer_status=verified&test_ipn=1&payer_email=william_buyer%40autodesk.com&txn_id=2KP144572R9206453&receiver_email=william_seller%40autodesk.com&first_name=williambuyer&payer_id=PYAX39C7LTU3E&receiver_id=X7QMNEWVLHP4S&item_number=appstore.exchange.autodesk.com%3adanielrendering%3aen&payment_status=Completed&payment_fee=0.33&mc_fee=0.33&mc_gross=0.99&custom=ZCGCKKGHNFN4&charset=windows-1252&notify_version=3.8&ipn_track_id=651f78bba90fc&buyer_adsk_account=changyudu%40163.com
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:34:55
+Message: HomeController[HandleIPNNotification - appstore.exchange.autodesk.com:danielrendering:en]: posting to Autodesk Exchange: http://localhost:36911/ValidateIPN.aspx
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:35:40
+Message: Unknown
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:35:40
+Message: ====================Process End =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:35:40
+Message: ====================Process Start =========================
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:35:40
+Message: txn_type=subscr_signup&subscr_id=I-M9UNWFABSCU0&last_name=buyer&residence_country=US&mc_currency=USD&item_name=Snoopy5&business=william_seller%40autodesk.com&amount3=0.99&recurring=1&verify_sign=As735jYkp7XIRB6.aiLUw3pQjX1zA8Hc.eUiJrGiQ-ix1S92lvtPhEw5&payer_status=verified&test_ipn=1&payer_email=william_buyer%40autodesk.com&first_name=williambuyer&receiver_email=william_seller%40autodesk.com&payer_id=PYAX39C7LTU3E&reattempt=1&item_number=appstore.exchange.autodesk.com%3adanielrendering%3aen&subscr_date=2014%e5%b9%b45%e6%9c%8821%e6%97%a5&custom=ZCGCKKGHNFN4&charset=windows-1252&notify_version=3.8&period3=1+D&mc_amount3=0.99&ipn_track_id=651f78bba90fc&buyer_adsk_account=changyudu%40163.com
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:35:40
+Message: HomeController[HandleIPNNotification - appstore.exchange.autodesk.com:danielrendering:en]: posting to Autodesk Exchange: http://localhost:36911/ValidateIPN.aspx
+-----------------------------------------------------------
+
+
+Time:    2014/5/21 13:37:20
+Message: PaymentProvider[HandleIPNNotification]: Error to get IPN validation info from Autodesk. strResponse is: Unknown
+-----------------------------------------------------------
+
+
+Time:    2023/12/19 14:23:56
+Message: ====================Process Start =========================
+-----------------------------------------------------------
+
+
+Time:    2023/12/19 14:23:57
+Message: transaction_subject=200703030249937&txn_type=web_accept&payment_date=23%3A36%3A36+Jan+11%2C+2014+PST&last_name=Balsom&residence_country=AU&item_name=RDBK_AutoNumber+Pro&payment_gross=5.50&mc_currency=USD&business=paypal@company.com.au&payment_type=instant&protection_eligibility=Ineligible&payer_status=verified&verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AsmAEVMnS38537K1tk5tZMnvtnW6&tax=0.50&payer_email=name@company.net.au&txn_id=0AG18756HD086633A&quantity=1&receiver_email=paypal@company.com.au&first_name=MARK&payer_id=NEH6BJPL9LBYG&receiver_id=GDGRD3PAZBMD8&item_number=appstore.exchange.autodesk.com%3adanielrendering%3aen&handling_amount=0.00&payment_status=Completed&payment_fee=0.43&mc_fee=0.43&shipping=0.00&mc_gross=5.50&custom=200703030249937&charset=windows-1252&notify_version=3.7&auth=A6P4OiUSwAL6901WUc3VK.fiUaYTR5AND5h.XpBaMqrI8gSmid.n0tFsfAMP6u3unDXUuiABwGtZWQlN.RFtDcA&form_charset=UTF-8&buyer_adsk_account=changyudu%40163.com
+-----------------------------------------------------------
+
+
+Time:    2023/12/19 14:23:57
+Message: HomeController[HandleIPNNotification - appstore.exchange.autodesk.com:danielrendering:en]: posting to Autodesk Exchange: http://localhost:36911/ValidateIPN.aspx
+-----------------------------------------------------------
+
+
+Time:    2023/12/19 14:23:57
+Message: start to send email to changyudu@163.comwith name:changyudu@163.com
+-----------------------------------------------------------
+
+
+Time:    2023/12/19 14:24:18
+Message: PaymentProvider[HandleIPNNotification]: Error to get IPN validation info from Autodesk. strResponse is: Unknown
+-----------------------------------------------------------
+
+
